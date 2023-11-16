@@ -18,7 +18,7 @@ public class Eje02 {
 
         for (char d : c) {
             System.out.print(d+" ");
-        }
+        } 
 
     }
 }
