@@ -97,7 +97,7 @@ public class Eje11 {
         System.out.println();
 
         System.out.println("¡¡¡ARRAY FINAL!!!");
-        tabla(posicionaPrimos(array));
+        tabla(posicionaPrimos(array)); 
 
     }
 }
