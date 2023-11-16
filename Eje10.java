@@ -40,7 +40,7 @@ public class Eje10 {
         }
 
         for (int i = 0; i < aux.length; i++) { //Muestra el array auxiliar ordenado
-            System.out.print(aux[i]+" ");
+            System.out.print(aux[i]+" "); 
         }
 
     }
