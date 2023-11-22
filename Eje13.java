@@ -21,7 +21,7 @@ public class Eje13 {
             }
             if(array[i]<min){
                 min=array[i];
-            }
+            } 
         }
 
         System.out.println();
