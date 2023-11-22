@@ -10,7 +10,7 @@ public class Eje10 {
     public static void main(String[] args) {
 
         int[] aleatorios = new int[20];
-        int imp = 0;
+        int imp = 0; 
 
         for (int i=0; i <aleatorios.length; i++){ //Genera los números y cuenta los impares
             aleatorios[i] = (int)(Math.random()*101);
