@@ -10,7 +10,7 @@ public class Eje09 {
 
         for(int i=0; i<array.length; i++){
             System.out.print("Introduzca su número: ");
-            array[i] = Integer.parseInt(System.console().readLine());
+            array[i] = Integer.parseInt(System.console().readLine()); 
         }
 
         System.out.println();
