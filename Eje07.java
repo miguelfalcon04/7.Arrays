@@ -9,7 +9,7 @@ han cambiado deben aparecer entrecomillados.
 public class Eje07 {
     public static void main(String[] args) {
 
-        int[] aleatorios = new int[100];
+        int[] aleatorios = new int[100]; 
 
         for(int i=0; i<aleatorios.length; i++){
             aleatorios[i] = (int)(Math.random()*21);
