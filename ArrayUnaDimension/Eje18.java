@@ -110,5 +110,5 @@ public class Eje18 {
         System.out.println("Array resultado: ");
         pintaTabla(turnaMenorMayor(array));
 
-    }sdfbdfb
+    }
 }
