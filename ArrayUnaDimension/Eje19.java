@@ -84,7 +84,7 @@ public class Eje19 {
         System.out.println();
 
         System.out.println("Array resultado:");
-        pintaTabla(rotaArray(array, valor, pos));dasfvbeqrb
+        pintaTabla(rotaArray(array, valor, pos));
 
     }
 }
