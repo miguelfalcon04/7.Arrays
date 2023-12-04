@@ -14,7 +14,7 @@ public class Eje03 {
             }
         }
         return array;
-    }
+    } 
 
     public static void pintaTabla(int[][] array){
         System.out.println("┌────┬────┬────┬────┬────┬────────┐"); //Primera línea
