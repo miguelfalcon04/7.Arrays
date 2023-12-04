@@ -34,7 +34,7 @@ public class Eje02 {
             System.out.printf("SF%d %4d│",(fila+1),sumaFila);
             System.out.println();
             System.out.println("├────┼────┼────┼────┼────┼────────┤");
-        }
+        } 
 
 
         int sumaCol = 0;
