@@ -15,7 +15,7 @@ public class Eje04{
             }
         }
         return array;
-    }
+    } 
 
     public static void pintaTabla(int[][] array) throws InterruptedException{
         System.out.println("┌────┬────┬────┬────┬────┬────────┐"); //Primera línea
