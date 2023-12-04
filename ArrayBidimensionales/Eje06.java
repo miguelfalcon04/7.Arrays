@@ -74,7 +74,7 @@ public class Eje06 {
                     posF = fila;
                     posC = columna;
                 }
-            }
+            } 
         }
         System.out.printf("El mayor número se encuentra en la fila %d columna %d\n",(posF+1),(posC+1));
         return max;
