@@ -53,5 +53,5 @@ public class Eje01 {
         num[2][5] = 11;
         imprimeTabla(num);
 
-    }
+    } 
 }
