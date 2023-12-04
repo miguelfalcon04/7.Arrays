@@ -16,7 +16,7 @@ public class Eje07 {
         // se definen constantes para representar el
         // contenido de las celdas
         final int VACIO = 0;
-        final int MINA = 1;
+        final int MINA = 1; 
         final int TESORO = 2;
         final int INTENTO = 3;
         int x;
