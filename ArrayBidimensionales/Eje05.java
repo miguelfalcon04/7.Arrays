@@ -20,7 +20,7 @@ public class Eje05 {
             }
         }
         return array;
-    }
+    } 
 
     public static void pintaTabla(int[][] array){
 
