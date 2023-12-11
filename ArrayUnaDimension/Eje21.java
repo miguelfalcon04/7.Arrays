@@ -40,7 +40,7 @@ public class Eje21 {
         System.out.println();
 
         System.out.println("Array cincuerizado:");
-        cincuerizaArray(array);efwefwefwf
+        cincuerizaArray(array);
 
     }
 }
