@@ -1,4 +1,5 @@
 package ArrayBidimensionales;
+
 /*Ejercicio 1
 Define un array de números enteros de 3 filas por 6 columnas con nombre num
 y asigna los valores según la siguiente tabla. Muestra el contenido de todos
