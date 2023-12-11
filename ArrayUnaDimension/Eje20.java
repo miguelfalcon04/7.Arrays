@@ -38,7 +38,7 @@ public class Eje20 {
         System.out.println();
 
         System.out.println("Los reyes introducidos son:");
-        ordinalReyes(reyes);asfgasg
+        ordinalReyes(reyes);
 
     }
 }
