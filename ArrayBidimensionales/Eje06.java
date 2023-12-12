@@ -1,5 +1,10 @@
 package ArrayBidimensionales;
 
+/*Ejercicio 6
+Modifica el programa anterior de tal forma que no se repita ningún número en
+el array.
+ */
+
 public class Eje06 {
 
     public static final String RESET = "\033[0m";
@@ -31,8 +36,6 @@ public class Eje06 {
         }
         return false;
     }
-    
-    
 
     public static void pintaTabla(int[][] array){
 
